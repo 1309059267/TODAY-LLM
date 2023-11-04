@@ -56,7 +56,7 @@ python app-Today.py
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://gitlab.com/dlut1/TODAY-LLM/-/tree/master?ref_type=heads}},
+  howpublished = {\url{https://github.com/1309059267/TODAY-LLM}},
 }
 ```
 
