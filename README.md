@@ -44,6 +44,9 @@ python app-Today.py
 如果要将demo放到公网上需要将frpc_linux_amd64_v0.2文件移动到.../anaconda3/envs/firefly/lib/python3.8/site-packages/gradio路径下，并将权限更改为可执行。
 ![demo](demo.jpg)
 
+## 致谢
+本项目参考自[流萤项目](https://github.com/yangjianxin1/Firefly)。
+
 ## 引用
 若使用本项目的数据、代码或模型，请引用本项目。
 ```text
@@ -53,6 +56,7 @@ python app-Today.py
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yangjianxin1/Firefly}},
+  howpublished = {\url{https://gitlab.com/dlut1/TODAY-LLM/-/tree/master?ref_type=heads}},
 }
 ```
+
